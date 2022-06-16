@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "11033230405",
+    "project_id": "school-diary-f0d1b",
+    "storage_bucket": "school-diary-f0d1b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:11033230405:android:711938c182490285cf372c",
+        "android_client_info": {
+          "package_name": "com.widgetshubs.school_diary"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "11033230405-kpne7nbvfth3s0gijnah8c0qev3shrek.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSX8C2tPwUCuQRiyGlKFdgEkDheaSF56o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "11033230405-kpne7nbvfth3s0gijnah8c0qev3shrek.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
